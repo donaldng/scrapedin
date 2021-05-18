@@ -11,7 +11,7 @@ const template = {
         }
     },
     about: {
-        selector: '.org-grid__core-rail--no-margin-left',
+        selector: '.org-grid__content-height-enforcer',
         fields: {
             overview: 'p',
             types:{
